@@ -6,6 +6,7 @@ Virtual Reality game where you prepare burguers based on customer's orders. Made
 # How to Play
 
 Download this repository, use Unity version 2018.4 and click play. There might be dependency issues which you'll need to resolve by yourself.
+Or you can download the Kitchen_VR.zip file and run the `Borba_Gabs_VR` executable.
 
 The main objective is to prepare burguers as they are requested by your customers. You can check out the orders at the front of the kitchen.  
 You need to stack ingredients, cook the meat, ring the bell and, most importantly, have fun!
